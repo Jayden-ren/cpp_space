@@ -2,9 +2,9 @@
 学习C++ 的笔记
 ## 1. 环境准备
 1. 下载vscode，并下载这几个插件
-![alt text](./img/vscode_plugin.png)
+![alt text](https://github.com/Jayden-ren/cpp_space/blob/main/img/vscode_plugin.png)
 
-2. 下载MinGW-w64
+1. 下载MinGW-w64
 [MinGW-w64官网](https://www.mingw-w64.org/downloads/)
 [github](https://github.com/niXman/mingw-builds-binaries/releases)
 
@@ -31,3 +31,8 @@ gdb --version
 ![alt text](./img/run_code.gif)
 点击运行任务后在当前目录下会生成.exe的可执行文件，在文件管理器中执行即可。
 ![alt text](./img/hello_world.png)
+
+
+
+# [基础入门](./basic/ch1_basic.md)
+
